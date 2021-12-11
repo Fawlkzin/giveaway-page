@@ -1,2 +1,2 @@
-# giveaway-page
-Esta é uma página para sortear um nome aleatório entre vários nomes inidicados
+# churrascometro
+Esta é uma página para dar a quantidade de recursos aproximadas para a confecção de um churrasco
